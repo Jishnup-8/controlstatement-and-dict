@@ -6,15 +6,16 @@
 #     n = n - 1
 # print('blast off')
 
+
 # For loops ... it will check the values
 
 # num = [1,2,3,4,5]
-# for i in num :
+# for i in num:
 #     print('it is a num')
 
 # num = [1,2,3,4]
-# text = 'john'
 # print(len(text))
+# text = 'john'
 # for i in text :
 #     if i == 'h' :
 #         print(' h is included')
