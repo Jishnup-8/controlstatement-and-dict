@@ -15,6 +15,13 @@
 #     print('negative')   
 
 
+# number = 10
+
+# if number < 8:
+#     print("positive")
+# else : 
+#     print('negative') 
+
 # if ..elif..else  statement
 
 # number = 10 

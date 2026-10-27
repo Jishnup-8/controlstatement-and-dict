@@ -20,7 +20,6 @@
 
 # print(my_dict["name"])
 # print(my_dict["age"])
-# print(my_dict["city"])
 
 # METHODS ..
 
@@ -31,7 +30,7 @@
 #     'is_active' : True,
 
 # }
-# #keys() - get all keys
+#  #keys() - get all keys
 # print(my_dict.keys())
 # print(type(my_dict.keys()))
 
@@ -42,6 +41,7 @@
 
 # print(my_dict.items())
 
+# print(my_dict["city"])
 # get(key, default) - saflely get  value
 # print(my_dict,get("rolnum" , 0))
 
@@ -52,7 +52,7 @@
 
 # update(dict2) -merge dictionaries
 
-# dict1 = {'a' : 1, 'b' : 2}
+dict1 = {'a' : 1, 'b' : 2}
 # dict2 ={'c' : 4, 'd' : 5}
 # dict1.update(dict2)
 # print(dict1)
@@ -62,9 +62,9 @@
 # print(dict1)
 
 # copy() - Create shallow copy 
-# dict2 ={'c' : 4 ,'d' :5}
-# new_dict=dict2.copy()
-# print(new_dict)
+dict2 ={'c' : 4 ,'d' :5}
+new_dict=dict2.copy()
+print(new_dict)
 
 
 
